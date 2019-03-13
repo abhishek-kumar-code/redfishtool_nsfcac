@@ -52,7 +52,7 @@ def read_requirements(filename):
 setup(
     name='redfish-prompt',
     version=find_version('redfish_prompt', '__init__.py'),
-    url='https://github.com/nsfcac/redfish-prompt',
+    url='https://github.com/abhishek-kumar-code/redfishtool_nsfcac',
     description='An interactive HTTP command-line client customized for the Redfish standard cloned from eliangcs/http-prompt',
     long_description=read_description('README.rst'),
     author='NSF Cloud and Autonomic Computing Center',
